@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karkiamrit" alt="karkiamrit" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, React, NodeJS, NextJS Python**
+- 🌱 I’m currently learning **MongoDB, ExpressJS, React, NodeJS, NextJS, Python**
 
 - 📫 How to reach me **amrit.191503@ncit.edu.np**
 
