@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amrit Jung Karki</h1>
-<h3 align="center">A passionate MERN stack developer from Nepal</h3>
+<h3 align="center">A passionate Software Engineer from Nepal</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karkiamrit" alt="karkiamrit" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, ExpressJS, React, NodeJS, NextJS, Python**
+- 🌱 I have a knack for handling projects in NestJS, Next.js, MERN, Python, React Native, Flutter, Blade, Some bits of Java and Kotlin, alongside various web architectures and tools..
 
 - 📫 How to reach me **amrit.191503@ncit.edu.np**
 
